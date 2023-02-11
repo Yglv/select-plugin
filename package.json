@@ -1,0 +1,33 @@
+{
+  "name": "select-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  },
+  "dependencies": {
+    "immutable": "^4.1.0",
+    "binary-extensions": "^2.2.0",
+    "glob-parent": "^5.1.2",
+    "anymatch": "^3.1.2",
+    "chokidar": "^3.5.3",
+    "braces": "^3.0.2",
+    "fill-range": "^7.0.1",
+    "is-extglob": "^2.1.1",
+    "picomatch": "^2.3.1",
+    "is-binary-path": "^2.1.0",
+    "source-map-js": "^1.0.2",
+    "normalize-path": "^3.0.0",
+    "is-number": "^7.0.0",
+    "is-glob": "^4.0.3",
+    "to-regex-range": "^5.0.1",
+    "readdirp": "^3.6.0"
+  },
+  "description": ""
+}
